@@ -1,6 +1,23 @@
-L298 KEYWORD1
-forward KEYWORD2
-backward KEYWORD2
-turnLeft KEYWORD2
-turnRight KEYWORD2
-stop KEYWORD2
+#######################################
+# Syntax Coloring Map L298
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+L298	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+forward 	KEYWORD2
+backward 	KEYWORD2
+turnLeft 	KEYWORD2
+turnRight 	KEYWORD2
+stop 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
